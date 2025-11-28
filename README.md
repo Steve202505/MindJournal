@@ -46,7 +46,3 @@ The platform includes:
 - Easily upgradable to MongoDB or SQL databases
 
 ---
-
-## 🏗 Project Structure
-
-
